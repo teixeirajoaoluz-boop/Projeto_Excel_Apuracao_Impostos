@@ -163,5 +163,5 @@ João Teixeira
 
 # Contato
 
-LinkedIn: adicionar link  
-GitHub: adicionar link  
+LinkedIn: 
+GitHub: 
